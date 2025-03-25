@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     display: flex;
-    height: 230vh;
+    min-height: 100vh;
 }
 
 .cont {
@@ -19,7 +19,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: auto;
+    min-height: 100vh;
     margin: auto;
 }
 
